@@ -123,3 +123,9 @@ Route::get('/', function () {
     ]);
 
 });
+
+# php artisan migrate:fresh
+
+# php artisan tinker
+
+# \App\Models\Post::factory(50)->create();
